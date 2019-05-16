@@ -1,0 +1,154 @@
+body {
+	direction: rtl;
+	background:url(../imige/FA9A7281.JPG) no-repeat center;
+	background-size:3000px 2000px;
+	font-family:Arial;
+}
+
+#container {
+	margin: 0 auto;
+	width: 960px;
+	height:2000px;
+	background-color: rgba(242, 246, 206, 0.7);
+	}
+
+header {
+	background: url('../imige/logo50 (1).png') no-repeat bottom center;
+	background-size: 90px 50px;
+	background-color: rgba(138, 166, 38, 0.4);
+	width: 930px;
+	height: 120px;
+	padding: 15px;
+	text-align: center;
+}
+
+
+/*הדר*/
+h1 {
+	font-family: 'BN Madregot';
+	letter-spacing:3px;
+	color: #731919;
+	font-size: 30pt;
+	font-weight: bold;
+	margin-top: 10px;
+	text-align: center;
+}
+
+header p {
+	font-family: 'BN Madregot';
+	letter-spacing: 3px;
+	color: #731919;
+	font-size: 20pt;
+	font-weight: bold;
+	margin-top: 15pt;
+	text-align: center;
+}
+
+/*imige מרכזי*/
+#welcome {
+	display:block;
+	margin:10px auto;
+}
+
+h2 {
+	font-family: Impact;
+	letter-spacing: 3px;
+	font-size: 70pt;
+	color: #68788C;
+	text-align:center;
+	margin-top:10px;
+}
+
+#welcome p {
+	display:block;
+	margin: 10px auto;
+	text-align: center;
+	font-family: 'BN Madregot';
+	letter-spacing: 3px;
+	font-size: 30pt;
+	color: #68788C;
+	}
+
+
+/*imiges*/
+#disighin {
+	display: inline-block;
+	width: 170px;
+	height: 170px;
+	background: url(../imige/diighn.png) no-repeat;
+	background-size: 170px 170px;
+	margin-right: 75px;
+}
+	
+	#tec {
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	background: url(../imige/tec.png) no-repeat;
+	background-size: 150px 150px;
+	margin-right:60px;
+	margin-bottom:75px;
+	
+}
+
+#ed_divelop {
+	display: inline-block;
+	width: 130px;
+	height: 130px;
+	background: url(../imige/ed_divelop.png) no-repeat;
+	background-size: 130px 130px;
+	margin-right: 60px;
+	margin-bottom: 120px;
+}
+
+#hit {
+	display: inline-block;
+	width: 300px;
+	height: 250px;
+	background: url(../imige/hit.png) no-repeat;
+	background-size: 240px 180px;
+	}
+
+/*טוםס צור קשר*/
+form {
+	background-color: #731919;
+	padding:8px;
+	padding-right:100px;
+}
+
+label {
+	text-align:center;
+	font-size: 15pt;
+	font-weight: bold;
+	color: #F2E2CE;
+}
+
+input {
+	background-color: #F2E2CE;
+	color: #8C8070;
+}
+
+/*ניווט תחתון*/
+footer {
+    margin:0 auto;
+	padding:25px;
+	text-align:center;
+}
+
+h3 {
+	display:inline-block;
+	font-family: 'BN Madregot';
+	letter-spacing: 3px;
+	color: #68788C;
+	margin: 15px 0;
+	font-size: 15pt;
+}
+
+footer a,p {
+	display:inline;
+	font-family: 'BN Madregot';
+	letter-spacing: 3px;
+	color: #68788C;
+	margin: 15px;
+	font-size: 15pt;
+}
